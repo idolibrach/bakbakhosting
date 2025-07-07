@@ -1,0 +1,6 @@
+backend/node_modules
+backend/jdk
+backend/servers
+backend/data.db
+bakbakhosting-dashboard/node_modules
+bakbakhosting-dashboard/.env
